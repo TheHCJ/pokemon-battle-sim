@@ -1,1 +1,2 @@
-# pokemon-battle-sim
+# Pokemon Battle Simulator
+Hello fellow reader, this is going to be my grand project. Pokemon as a game is rather complex in its calculations, having many complex formulas and confusing processes. Nevertheless over the next year I will begin attempting to create what I would consider an accurate battle simulator for any pokemon. Eventually, I will also begin optimising it for user experience and create an API but we need to start small.
