@@ -1,6 +1,8 @@
 # UPDATE 1.0: (a very very very) Alpha release
 Yayy finally, after a couple of months I am ready to release the code I have written so far 🥳🥳
-*Important notice*: I have not been coding that much on this project, and I do have aspirations to pick it up again. You will see more updates in the future.
+
+> [!NOTE]
+> I have not been coding that much on this project, and I do have aspirations to pick it up again. You will see more updates in the future.
 
 ## Features
 - damage calculators (Henceforth IV, EV, stats calculator)
@@ -65,7 +67,8 @@ Feel free to change that depending on the database (it's either that or movepool
 
 After running the files the databases should be setup and then all the mysql commands, retrievals etc. will work
 
-**!Important note: Please make sure to hide your passwords when sharing this code. I have too in order for my own privacy!**
+> [!CAUTION]
+> Please make sure to hide your passwords when sharing this code. I have too in order for my own privacy!
 
 ## Final notes
 This **is not** a good alpha release, this is just what I have done so far. You will find pieces of code that are missing or comments describing my current state. This is not polished yet however it is instead a very robust method to simulate pokemon battling.
